@@ -21,7 +21,7 @@ public enum Brands {
     LEXUS("Lexus"),
     MASERATI("Maserati"),
     MCLAREN("McLaren"),
-    Mercedes("Mercedes"),
+    MERCEDES("Mercedes"),
     NISSAN("Nissan"),
     PORSCHE("Porsche");
 

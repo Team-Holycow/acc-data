@@ -14,7 +14,8 @@ public enum CarClass {
     GT3("GT3"),
     GT4("GT4"),
     GTC("GTC"),
-    TCX("TCX");
+    TCX("TCX"),
+    GT2("GT2");
 
     private final String internalId;
 

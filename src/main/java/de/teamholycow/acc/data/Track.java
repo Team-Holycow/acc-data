@@ -30,7 +30,8 @@ public enum Track {
     IMOLA("imola", "Autodromo Enzo e Dino Ferrari - Imola", Dlc.GT_WORLD_CHALLENGE_PACK_2020, 4.909),
     COTA("cota", "Circuit of the Americas", Dlc.AMERICAN_TRACK_PACK, 5.516),
     INDIANAPOLIS("indianapolis", "Indianapolis Motor Speedway", Dlc.AMERICAN_TRACK_PACK, 4.192),
-    WATKINS_GLEN("watkins_glen", "Watkins Glen", Dlc.AMERICAN_TRACK_PACK, 3.94);
+    WATKINS_GLEN("watkins_glen", "Watkins Glen", Dlc.AMERICAN_TRACK_PACK, 3.94),
+    VALENCIA("valencia", "Circuit Ricardo Tormo", Dlc.GT_WORLD_CHALLENGE_2023, 4.005);
 
 
     private static final double KM_TO_MILES_FACTOR = 0.6213711922;
