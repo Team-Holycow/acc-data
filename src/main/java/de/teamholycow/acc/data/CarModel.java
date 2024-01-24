@@ -56,7 +56,13 @@ public enum CarModel {
 	MASERATI_MC_GT4(Brands.MASERATI, 58, "Maserati MC GT4", 2016, Dlc.GT4_PACK, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT4)),
 	MCLAREN_570S_GT4(Brands.MCLAREN, 59, "McLaren 570S GT4", 2016, Dlc.GT4_PACK, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT4)),
 	MERCEDES_AMG_GT4(Brands.MERCEDES, 60, "Mercedes AMG GT4", 2016, Dlc.GT4_PACK, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT4)),
-	PORSCHE_CAYMAN_GT4(Brands.PORSCHE, 61, "Porsche Cayman GT4", 2019, Dlc.GT4_PACK, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT4));
+	PORSCHE_CAYMAN_GT4(Brands.PORSCHE, 61, "Porsche Cayman GT4", 2019, Dlc.GT4_PACK, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT4)),
+	AUDI_R8_LMS_GT2(Brands.AUDI, 80, "Audi R8 LMS GT2", 2023, Dlc.GT2_PACK, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT2)),
+	KT_XBOW_GT2(Brands.KTM, 82, "KTM XBOW GT2", 2023, Dlc.GT2_PACK, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT2)),
+	MASERATI_MC20_GT2(Brands.MASERATI, 83, "Maserati MC20 GT2", 2023, Dlc.GT2_PACK, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT2)),
+	MERCEDES_AMG_GT2(Brands.MERCEDES, 84, "Mercedes AMG GT2", 2023, Dlc.GT2_PACK, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT2)),
+	PORSCHE_911_GT2_RS_CS_EVO(Brands.PORSCHE, 85, "Porsche 911 GT2 RS CS Evo", 2023, Dlc.GT2_PACK, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT2)),
+	PORSCHE_935(Brands.PORSCHE, 86, "Porsche 935", 2023, Dlc.GT2_PACK, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT2));
 
 	private final Brands brand;
 	private final int internalId;

@@ -19,7 +19,8 @@ public enum Dlc {
     CHALLENGERS_PACK("Challengers Pack", Instant.parse("2022-03-23T00:00:00.00Z")),
     AMERICAN_TRACK_PACK("American Track Pack", Instant.parse("2022-06-30T00:00:00.00Z")),
     GT_WORLD_CHALLENGE_2023("2023 GT World Challenge", Instant.parse("2023-04-19T00:00:00.00Z")),
-    FREE_CONTENT_UPDATE_2023("Free Content Update 2023", Instant.parse("2023-05-23T00:00:00.00Z"));
+    FREE_CONTENT_UPDATE_2023("Free Content Update 2023", Instant.parse("2023-05-23T00:00:00.00Z")),
+    GT2_PACK("GT2 Pack", Instant.parse("2024-01-24T00:00:00.00Z"));
 
     private final String displayName;
     private final Instant releaseDate;
