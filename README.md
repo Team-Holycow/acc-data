@@ -6,6 +6,7 @@
 ACC-Data is a collection of data models for Assetto Corsa Competizione.
 
 It contains the data model for the following entities:
+
 - CarModel
 - CarClass
 - Brands
@@ -17,17 +18,21 @@ It contains the data model for the following entities:
 - SessionType
 - Nationality
 
-
 ## Usage
+
 Maven
+
 ```xml
+
 <dependency>
-    <groupId>de.team-holycow</groupId>
-    <artifactId>acc-data</artifactId>
-    <version>0.5</version>
+	<groupId>de.team-holycow</groupId>
+	<artifactId>acc-data</artifactId>
+	<version>1.0</version>
 </dependency>
 ```
+
 Gradle
+
 ```
-implementation 'de.team-holycow:acc-data:0.5'
+implementation 'de.team-holycow:acc-data:1.0'
 ```
