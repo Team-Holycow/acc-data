@@ -27,12 +27,12 @@ Maven
 <dependency>
 	<groupId>de.team-holycow</groupId>
 	<artifactId>acc-data</artifactId>
-	<version>1.0</version>
+	<version>1.1</version>
 </dependency>
 ```
 
 Gradle
 
 ```
-implementation 'de.team-holycow:acc-data:1.0'
+implementation 'de.team-holycow:acc-data:1.1'
 ```

@@ -46,6 +46,7 @@ public enum CarModel {
 	LAMBORGHINI_HURACAN_EVO2(Brands.LAMBORGHINI, 33, "Lamborghini Huracan Evo2", 2023, Dlc.GT_WORLD_CHALLENGE_2023, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT3)),
 	PORSCHE_992_GT3_R(Brands.PORSCHE, 34, "Porsche 992 GT3 R", 2023, Dlc.GT_WORLD_CHALLENGE_2023, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT3)),
 	MCLAREN_720S_GT3_EVO_2023(Brands.MCLAREN, 35, "McLaren 720S GT3 Evo (2023)", 2023, Dlc.FREE_CONTENT_UPDATE_2023, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT3)),
+	FOR_MUSTANG_GT3(Brands.FORD, 36, "Ford Mustang GT3", 2024, Dlc.FREE_CONTENT_UPDATE_2024, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT3)),
 	ALPINE_A110_GT4(Brands.ALPINE, 50, "Alpine A110 GT4", 2018, Dlc.GT4_PACK, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT4)),
 	ASTON_MARTIN_GT4(Brands.ASTON_MARTIN, 51, "Aston Martin GT4", 2018, Dlc.GT4_PACK, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT4)),
 	AUDI_R8_LMS_GT4(Brands.AUDI, 52, "Audi R8 LMS GT4", 2018, Dlc.GT4_PACK, Set.of(CarClass.FREE_FOR_ALL, CarClass.GT4)),
